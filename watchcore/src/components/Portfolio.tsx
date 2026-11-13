@@ -162,7 +162,7 @@ export default function Portfolio() {
   }, [activeProject]);
 
   return (
-    <section className="portfolio-section section-shell" id="portfolio">
+    <section className="portfolio-section section-shell" id="criacoes">
       <div className="portfolio-heading">
         <div>
           <p className="eyebrow">Uma ideia de cada vez</p>
